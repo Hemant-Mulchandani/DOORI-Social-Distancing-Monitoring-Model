@@ -69,6 +69,9 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 * **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
 ` ***to run your social distance detection project***
 
+## For GPU:
+You can find my google colab file here. [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
+
 ## Demo :movie_camera:
 
 <p align="center">
@@ -88,9 +91,6 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 <p align="center">
   Processed Video as an output
 </p>
-
-## For GPU:
-You can find my google colab file here. [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
 
 ## Want to talk more??
 
