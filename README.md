@@ -97,7 +97,7 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 
 If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
 
-- :e-mail: Email -mesg4hemant@gmail.com
+- :e-mail: Email mesg4hemant@gmail.com
 - :pushpin: Let's connect on <a href="https://www.linkedin.com/in/Hemant-Mulchandani/">LinkedIn.</a> 
 
 ## References :book:
