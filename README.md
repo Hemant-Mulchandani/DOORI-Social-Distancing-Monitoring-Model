@@ -106,7 +106,7 @@ If you are interested in helping or have something to suggest or just want to ch
 * <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
 * <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655464103798157312/">Venkatagiri Ramesh’s social distancing project</a>
 
-## Todos :pencil:
+## To dos :pencil:
 * Utilize proper camera calibration.
 * Apply top-down transformation of view angle.
 * Improve the poeple detection process.
