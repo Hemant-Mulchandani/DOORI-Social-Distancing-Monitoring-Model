@@ -69,6 +69,18 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 * **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
 ` ***to run your social distance detection project***
 
+## Demo :movie_camera:
+<p align="center">
+  <img src="Assets/demo0.gif">
+</p>
+
+<p align="center">
+  <img src="Assets/demo1.gif">
+</p>
+
+![raw-vid](Assets/demo0.gif "Unprocessed video")
+![processed-vid](Assets/demo1.gif "Processed video")
+
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 ![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
 
