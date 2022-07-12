@@ -55,7 +55,7 @@ Download weight file and add file to the yolo-coco folder.
 * GPU\
 Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set ```USE_GPU=True``` in your ```config.py``` file.
 
-# For CPU:
+## For CPU:
 
 ## To run this code in your terminal:
 * ***Open your terminal**
@@ -71,8 +71,6 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 
 ## Demo :movie_camera:
 
-#### After you run the last line of command,a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-
 <p align="center">
   <img src="Assets/demo0.gif">
 </p>
@@ -80,6 +78,8 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 <p align="center">
   Raw Video as an input
 </p>
+
+#### After you run the last line of code or command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 
 <p align="center">
   <img src="Assets/demo1.gif">
@@ -89,7 +89,7 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
   Processed Video as an output
 </p>
 
-# For GPU:
+## For GPU:
 You can find my google colab file here. [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
 
 ## Want to talk more??
@@ -112,4 +112,4 @@ If you are interested in helping or have something to suggest or just want to ch
 * Improve the poeple detection process.
 
 ## License :key:
-MIT &copy;
+MIT &copy; License
