@@ -25,7 +25,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 1. Clone the repo
 
 ```bash
-   $ git clone https://github.com/aibenStunner/social-distancing-detector.git
+   $ git clone https://github.com/Hemant-Mulchandani/DOORI-Social-Distancing-Monitoring-Model.git
    $ cd social-distancing-detector
 ```
 
@@ -70,24 +70,46 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 ` ***to run your social distance detection project***
 
 ## Demo :movie_camera:
+
+#### After you run the last line of command,a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
+
 <p align="center">
   <img src="Assets/demo0.gif">
+</p>
+
+<p align="center">
+  Raw Video as an input
 </p>
 
 <p align="center">
   <img src="Assets/demo1.gif">
 </p>
 
-![raw-vid](Assets/demo0.gif "Unprocessed video")
-![processed-vid](Assets/demo1.gif "Processed video")
-
-#### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+<p align="center">
+  Processed Video as an output
+</p>
 
 # For GPU:
 You can find my google colab file here. [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
 
-## Contacts:
-* **Created by: [Hemant Mulchandani](https://github.com/Hemant-Mulchandani)**
-* **Email: mesg4hemant@gmail.com**
-* **LinkedIn: [Hemant Mulchandani](https://www.linkedin.com/in/Hemant-Mulchandani/)**
+## Want to talk more??
+
+If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
+
+- :e-mail: Email -mesg4hemant@gmail.com
+- :pushpin: Let's connect on <a href="https://www.linkedin.com/in/Hemant-Mulchandani/">LinkedIn.</a> 
+
+## References :book:
+* Inspiration from Adrian Rosebrock's <a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">OpenCV Social Distancing Detector</a> :heart:
+* <a href="https://en.wikipedia.org/wiki/Social_distancing">Social Distancing</a>
+* <a href="https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/">Automatic social distance measurement</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655464103798157312/">Venkatagiri Ramesh’s social distancing project</a>
+
+## Todos :pencil:
+* Utilize proper camera calibration.
+* Apply top-down transformation of view angle.
+* Improve the poeple detection process.
+
+## License :key:
+MIT &copy;
