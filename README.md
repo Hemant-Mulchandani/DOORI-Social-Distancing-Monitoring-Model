@@ -11,7 +11,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 </p>
 
 <p align="center">
-   Social distancing plays crucial role in prevention of spread of Covid-19 virus.
+   • Social distancing plays crucial role in prevention of spread of Covid-19 virus.
 </p>
 
 ## Features :gem:
@@ -79,7 +79,7 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 </p>
 
 <p align="center">
-  - Raw Video as an input
+  • Raw Video as an input
 </p>
 
 #### After you run the last line of code or command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
@@ -89,7 +89,7 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 </p>
 
 <p align="center">
-  - Processed Video as an output
+  • Processed Video as the output
 </p>
 
 ## Want to talk more??
