@@ -14,8 +14,46 @@ Social distancing is a method used to control the spread of contagious diseases.
    Social distancing plays crucial role in prevention of spread of Covid-19 virus.
 </p>
 
-#### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1urxmtphDMakU9ffJEpIP-Ssi-_1djfc8/view?usp=sharing) 
-* Download it & move to yolo-coco folder
+## Features :gem:
+* Object detection using the YOLO COCO model to detect only people in a video stream.
+* Computes the pairwise distances between all detected people.
+* Based on the computed distances, we determine whether social distancing rule is being violated or not.
+
+
+## Installation :package:
+
+1. Clone the repo
+
+```bash
+   $ git clone https://github.com/aibenStunner/social-distancing-detector.git
+   $ cd social-distancing-detector
+```
+
+2. Install dependencies
+
+```bash
+   $ pip install -r requirements.txt
+```
+
+3. Run the main social distancing detector file. (set display to 1 if you want to see output video as processing occurs)
+```bash
+   $ python social_distancing_detector.py --input pedestrians.mp4 --output output.avi --display 0
+```
+
+## Usage :computer:
+* Caution :bomb:\
+For most accurate results, you should calibrate your camera through intrinsic/extrinsic parameters so that you can map pixels to measurable units.
+An easier alternative(but less accurate) method would be to apply triangle similarity calibaration. Both of these methods can be used to map pixels to measurable units.\
+If you do not want/cannot apply camera calibration, you can still utilize the social distancing detector but you'll have to rely strictly on the pixel distances, which won't necessarily be accurate.
+For the sake of simplicity, this OpenCV Social Distancing detector implementation will rely on pixel distances. 
+You can extend the implementation as you see fit though :wink:.
+
+* YOLO COCO weights\
+#### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My Google Drive](https://drive.google.com/file/d/1urxmtphDMakU9ffJEpIP-Ssi-_1djfc8/view?usp=sharing) or can be downloaded from <a href="https://pjreddie.com/media/files/yolov3.weights">here</a>.\
+Download weight file and add file to the yolo-coco folder.
+
+* GPU\
+Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set ```USE_GPU=True``` in your ```config.py``` file.
 
 # For CPU:
 
