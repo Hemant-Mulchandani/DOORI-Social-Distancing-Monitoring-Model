@@ -25,5 +25,5 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 
 ## Contacts:
 * **Created by: [Hemant Mulchandani](https://github.com/Hemant-Mulchandani)**
-* **Email: [mesg4hemant@gmail.com]**
+* **Email: mesg4hemant@gmail.com**
 * **LinkedIn: [Hemant Mulchandani](https://www.linkedin.com/in/Hemant-Mulchandani/)**
