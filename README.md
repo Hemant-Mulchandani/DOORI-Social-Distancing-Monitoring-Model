@@ -1,4 +1,5 @@
-# DOORI - Social Distancing Monitoring Model
+# [🦠 DOORI - Social Distancing Monitoring Model 🤖](https://github.com/Hemant-Mulchandani/DOORI-Social-Distancing-Monitoring-Model)
+
 A deep learning computer vision project built with OpenCV using YOLO (COCO model) object detector.
 
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
