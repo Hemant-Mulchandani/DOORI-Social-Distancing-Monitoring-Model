@@ -1,4 +1,4 @@
-# DOORI-Social-Distancing-Monitoring-Model
+# DOORI - Social Distancing Monitoring Model
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in [My google drive](https://drive.google.com/file/d/1urxmtphDMakU9ffJEpIP-Ssi-_1djfc8/view?usp=sharing) 
 * Download it & move to yolo-coco folder
