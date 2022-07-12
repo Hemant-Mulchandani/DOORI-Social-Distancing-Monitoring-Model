@@ -1,5 +1,5 @@
 # DOORI - Social Distancing Monitoring Model
-A deep learning computer vision project built with OpenCV using YOLO(COCO model) object detector.
+A deep learning computer vision project built with OpenCV using YOLO (COCO model) object detector.
 
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
 <p>
@@ -79,7 +79,7 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 </p>
 
 <p align="center">
-  Raw Video as an input
+  - Raw Video as an input
 </p>
 
 #### After you run the last line of code or command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
@@ -89,7 +89,7 @@ You can find my google colab file here. [Social Distancing Detector Colab](https
 </p>
 
 <p align="center">
-  Processed Video as an output
+  - Processed Video as an output
 </p>
 
 ## Want to talk more??
