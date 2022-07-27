@@ -71,7 +71,7 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 ` ***to run your social distance detection project***
 
 ## For GPU:
-You can find my google colab file here. [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
+You can find my google colab file here [Social Distancing Detector Colab](https://colab.research.google.com/drive/1ZPBaO0w2qYR0TIj9L3kvQpwCegQom7u_?usp=sharing)
 
 ## Demo :movie_camera:
 
