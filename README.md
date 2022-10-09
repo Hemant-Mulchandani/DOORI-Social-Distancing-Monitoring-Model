@@ -101,7 +101,7 @@ If you are interested in helping or have something to suggest or just want to ch
 - :pushpin: Let's connect on <a href="https://www.linkedin.com/in/Hemant-Mulchandani/">LinkedIn.</a> 
 
 ## References :book:
-* Inspiration from Adrian Rosebrock's <a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">OpenCV Social Distancing Detector</a> :heart:
+* Inspiration from Adrian Rosebrock's <a href="https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/">OpenCV Social Distancing Detector</a>
 * <a href="https://en.wikipedia.org/wiki/Social_distancing">Social Distancing</a>
 * <a href="https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/">Automatic social distance measurement</a>
 * <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
