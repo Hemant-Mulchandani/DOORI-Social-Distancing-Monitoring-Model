@@ -8,7 +8,13 @@ Social distancing is a method used to control the spread of contagious diseases.
 </p>
 
 <p align="center">
+
+   <!---
+  ![social_distance_detector_spread](https://user-images.githubusercontent.com/89768465/195823711-c42570e1-6c5d-4933-8955-ef95921fafb4.gif)
   <img src="Assets/social_distance_detector_spread.gif">
+  -->
+  
+  <img src="https://user-images.githubusercontent.com/89768465/195823711-c42570e1-6c5d-4933-8955-ef95921fafb4.gif">
 </p>
 
 <p align="center">
@@ -86,7 +92,12 @@ You can find my google colab file here [Social Distancing Detector Colab](https:
 #### After you run the last line of code or command, a window will pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 
 <p align="center">
+  
+  <!---
   <img src="Assets/demo1.gif">
+  -->
+  
+  <img src="https://user-images.githubusercontent.com/89768465/195834688-96cc2ede-dcb9-4639-8abe-6569c050c19a.webm">
 </p>
 
 <p align="center">
