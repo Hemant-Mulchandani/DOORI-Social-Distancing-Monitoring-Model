@@ -82,7 +82,12 @@ You can find my google colab file here [Social Distancing Detector Colab](https:
 ## Demo :movie_camera:
 
 <p align="center">
+
+  <!---
+  ![demo-124](https://user-images.githubusercontent.com/89768465/195983622-1e9e13d9-a1b7-4467-89b1-e6734448080d.gif)
   <img src="Assets/demo0.gif">
+  -->
+  <img src="https://user-images.githubusercontent.com/89768465/195983622-1e9e13d9-a1b7-4467-89b1-e6734448080d.gif">
 </p>
 
 <p align="center">
@@ -95,9 +100,10 @@ You can find my google colab file here [Social Distancing Detector Colab](https:
   
   <!---
   <img src="Assets/demo1.gif">
+  ![demo-123](https://user-images.githubusercontent.com/89768465/195983581-2a303c22-ae6e-4b35-af37-07399c2a2801.gif)
   -->
   
-  <img src="https://user-images.githubusercontent.com/89768465/195834688-96cc2ede-dcb9-4639-8abe-6569c050c19a.webm">
+  <img src="https://user-images.githubusercontent.com/89768465/195983581-2a303c22-ae6e-4b35-af37-07399c2a2801.gif">
 </p>
 
 <p align="center">
