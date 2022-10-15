@@ -110,7 +110,7 @@ You can find my google colab file here [Social Distancing Detector Colab](https:
   • Processed Video as the output
 </p>
 
-## Want to talk more??
+## Want to talk more?? 🙋🏻‍♂️
 
 If you are interested in helping or have something to suggest or just want to chat with me, you can reach me through the following media .
 
@@ -130,4 +130,4 @@ If you are interested in helping or have something to suggest or just want to ch
 * Improve the poeple detection process.
 
 ## License :key:
-MIT &copy; License
+GNU Lesser General Public License v2.1 &copy; License
