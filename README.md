@@ -130,4 +130,4 @@ If you are interested in helping or have something to suggest or just want to ch
 * Improve the poeple detection process.
 
 ## License :key:
-GNU Lesser General Public License v2.1 &copy; License
+GNU Lesser General Public License v2.1 &copy;
