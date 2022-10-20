@@ -33,7 +33,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 
 ```bash
    $ git clone https://github.com/Hemant-Mulchandani/DOORI-Social-Distancing-Monitoring-Model.git
-   $ cd social-distancing-detector
+   $ cd social-distancing-detector 
 ```
 
 2. Install dependencies
